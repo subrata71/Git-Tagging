@@ -12,6 +12,13 @@
             "id": "qcnbciybqr",
             "label": "limit",
             "propertyName": "inputs.limit"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "male",
+            "id": "jbbjafhjyf",
+            "label": "gender",
+            "propertyName": "inputs.gender"
           }
         ],
         "id": "iyxtiiekbu",

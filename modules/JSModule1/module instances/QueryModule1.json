@@ -7,10 +7,18 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {
+      "gender": "",
       "limit": ""
     },
     "moduleId": "JSModule1",
     "moduleInputs": {
+      "jbbjafhjyf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "male",
+        "id": "jbbjafhjyf",
+        "label": "gender",
+        "propertyName": "inputs.gender"
+      },
       "qcnbciybqr": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "3",
